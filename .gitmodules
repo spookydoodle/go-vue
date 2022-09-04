@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/spookydoodle/go-vue-api
+[submodule "client"]
+	path = client
+	url = https://github.com/spookydoodle/go-vue-client
